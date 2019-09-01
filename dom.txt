@@ -1,0 +1,73 @@
+
+# -> text node
+
+<html lang="en">
+<head>
+  <title>
+    #Akhil Kishore
+<body>
+
+<div >
+  <img>
+    #src="1.jpg"
+  <h2>
+    #AKHIL K K
+  <h4>
+    #akhil.mi3@iiitmka.ac.in
+  <h4>
+    #+91-9526 144 245
+
+
+<div>    
+  <h3>
+    #Academia
+  <div>
+    <div>
+        <h4>
+            <kbd>
+                #Personal Details
+
+    <div>
+        <h4><kbd>
+            #Education Details
+    <div>
+        <h4>
+            <kbd>
+                #Work Experience
+
+  <div>
+    <div >
+        <p>
+        #Kuriakkottu House,<br>puranattukara P.O,THRISSUR
+    <div> 
+            <table>
+                    <thead>
+                      <tr>
+                        <th>
+                            #
+                        <th>
+                            #
+                    <tbody>
+                        <tr>
+                            <th>
+                                #
+                            <th>
+                                #       
+                        <tr>
+                            <th>
+                                #
+                            <th>
+                                #
+
+             
+<div class="col-sm-4"> 
+    <ul>
+        <li>
+        <li>
+
+<footer>
+    <p>
+        #
+    <a>
+        #
+
